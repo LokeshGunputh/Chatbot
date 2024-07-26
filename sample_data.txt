@@ -1,0 +1,22 @@
+# Sample Data File
+
+## Introduction
+This file contains sample data for testing purposes.
+
+## Python
+Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
+
+## Git
+Git is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
+
+## Chatbots
+A chatbot is an artificial intelligence (AI) software that can simulate a conversation (or a chat) with a user in natural language through messaging applications, websites, mobile apps, or through the telephone.
+
+## Streamlit
+Streamlit is an open-source app framework for Machine Learning and Data Science teams. Streamlit turns data scripts into shareable web apps in minutes.
+
+## Excel
+Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android, and iOS. It features calculation, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications.
+
+## Conclusion
+This is a sample text file used to demonstrate the capabilities of a chatbot interacting with a Git repository.
